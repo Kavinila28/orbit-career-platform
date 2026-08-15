@@ -82,4 +82,11 @@ Public repositories inspected
       ↓
 Python detected in repository telemetry
       ↓
-Evidence State = VERIFIED
+Evidence State = VERIFIED```
+# Author
+
+Kavinila Prabhakaran
+
+B.E. Computer Science & Engineering — Artificial Intelligence & Machine Learning
+
+Rajalakshmi Institute of Technology
