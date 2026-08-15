@@ -9,7 +9,14 @@
 [![Database](https://img.shields.io/badge/Database-Supabase-3ECF8E)](https://supabase.com/)
 
 ---
+## Author
 
+Kavinila Prabhakaran - kavinilap2006@gmail.com
+
+B.E. Computer Science & Engineering — Artificial Intelligence & Machine Learning
+
+Rajalakshmi Institute of Technology
+---
 ## 🚀 Overview
 
 **ORBIT** is an AI-powered Career Intelligence & Readiness Platform designed to answer a practical question:
@@ -82,11 +89,5 @@ Public repositories inspected
       ↓
 Python detected in repository telemetry
       ↓
-Evidence State = VERIFIED```
-# Author
+Evidence State = VERIFIED
 
-Kavinila Prabhakaran
-
-B.E. Computer Science & Engineering — Artificial Intelligence & Machine Learning
-
-Rajalakshmi Institute of Technology
